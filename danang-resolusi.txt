@@ -3,5 +3,5 @@ DANANG RESOLUSI
 - Mengembangkan pengalaman lebih jauh lagi dengan projek-projek yang di dapatkan di dunia kerja
 - Membuat platform untuk pengelolaan projek
 - Mencoba hal baru di dunia program dengan merambah ke dunia IT
-- Mempelajari software yang digunakan dalam pembuatan sebuah website
 - Mempelajari bahasa pemrograman baru
+- Mempelajari bahasa yang berhubungan dengan projek IoT
